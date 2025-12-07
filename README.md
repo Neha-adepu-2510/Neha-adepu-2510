@@ -1,10 +1,9 @@
 ## Hi there 👋
-# This is Neha Adepu
+*_This is Neha Adepu_*
 # 💫 About Me:
 AI & ML student passionate about building practical, real-world solutions.<br>Creating meaningful tech, one project at a time.<br>Building, breaking, and learning through code.<br>Driven by curiosity, powered by code.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neha-adepu-n1h007/) 
 
 # 💻 Tech Stack:
