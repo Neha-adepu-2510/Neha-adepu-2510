@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# This is Neha Adepu
 # 💫 About Me:
 AI & ML student passionate about building practical, real-world solutions.<br>Creating meaningful tech, one project at a time.<br>Building, breaking, and learning through code.<br>Driven by curiosity, powered by code.
 
